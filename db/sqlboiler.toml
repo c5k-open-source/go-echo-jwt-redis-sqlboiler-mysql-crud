@@ -1,0 +1,15 @@
+wipe     = true
+no-tests = true
+no-hooks = true
+no-context = true
+add-multi-tenancy = true
+no-rows-affected = true
+
+[mysql]
+  dbname  = "canberktest"
+  host    = "localhost"
+  port    = 3306
+  user    = "root"
+  pass    = ""
+  sslmode = "false"
+  blacklist = ["test"]

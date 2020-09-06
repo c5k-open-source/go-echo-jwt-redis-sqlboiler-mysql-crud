@@ -1,0 +1,117 @@
+[
+  {
+    "method": "PROPFIND",
+    "path": "p/api/panel/v1",
+    "name": "github.com/labstack/echo.(*Group).Use.func1"
+  },
+  {
+    "method": "CONNECT",
+    "path": "p/api/panel/v1/*",
+    "name": "github.com/labstack/echo.(*Group).Use.func1"
+  },
+  {
+    "method": "GET",
+    "path": "p/api/panel/v1/*",
+    "name": "github.com/labstack/echo.(*Group).Use.func1"
+  },
+  {
+    "method": "POST",
+    "path": "p/api/panel/v1/*",
+    "name": "github.com/labstack/echo.(*Group).Use.func1"
+  },
+  {
+    "method": "TRACE",
+    "path": "p/api/panel/v1/*",
+    "name": "github.com/labstack/echo.(*Group).Use.func1"
+  },
+  {
+    "method": "POST",
+    "path": "p/api/panel/v1/login",
+    "name": "github.com/c5k-open-source/go-echo-jwt-redis-sqlboiler-mysql-crud/pkg/controllers.Login"
+  },
+  {
+    "method": "CONNECT",
+    "path": "p/api/panel/v1",
+    "name": "github.com/labstack/echo.(*Group).Use.func1"
+  },
+  {
+    "method": "GET",
+    "path": "p/api/panel/v1",
+    "name": "github.com/labstack/echo.(*Group).Use.func1"
+  },
+  {
+    "method": "DELETE",
+    "path": "p/api/panel/v1/*",
+    "name": "github.com/labstack/echo.(*Group).Use.func1"
+  },
+  {
+    "method": "HEAD",
+    "path": "p/api/panel/v1/*",
+    "name": "github.com/labstack/echo.(*Group).Use.func1"
+  },
+  {
+    "method": "PATCH",
+    "path": "p/api/panel/v1/*",
+    "name": "github.com/labstack/echo.(*Group).Use.func1"
+  },
+  {
+    "method": "PROPFIND",
+    "path": "p/api/panel/v1/*",
+    "name": "github.com/labstack/echo.(*Group).Use.func1"
+  },
+  {
+    "method": "GET",
+    "path": "/wowz",
+    "name": "main.main.func1"
+  },
+  {
+    "method": "PATCH",
+    "path": "p/api/panel/v1",
+    "name": "github.com/labstack/echo.(*Group).Use.func1"
+  },
+  {
+    "method": "PUT",
+    "path": "p/api/panel/v1",
+    "name": "github.com/labstack/echo.(*Group).Use.func1"
+  },
+  {
+    "method": "TRACE",
+    "path": "p/api/panel/v1",
+    "name": "github.com/labstack/echo.(*Group).Use.func1"
+  },
+  {
+    "method": "OPTIONS",
+    "path": "p/api/panel/v1/*",
+    "name": "github.com/labstack/echo.(*Group).Use.func1"
+  },
+  {
+    "method": "PUT",
+    "path": "p/api/panel/v1/*",
+    "name": "github.com/labstack/echo.(*Group).Use.func1"
+  },
+  {
+    "method": "POST",
+    "path": "p/api/panel/v1/partner",
+    "name": "github.com/c5k-open-source/go-echo-jwt-redis-sqlboiler-mysql-crud/pkg/controllers.CreatePartner"
+  },
+  {
+    "method": "DELETE",
+    "path": "p/api/panel/v1",
+    "name": "github.com/labstack/echo.(*Group).Use.func1"
+  },
+  {
+    "method": "HEAD",
+    "path": "p/api/panel/v1",
+    "name": "github.com/labstack/echo.(*Group).Use.func1"
+  },
+  {
+    "method": "OPTIONS",
+    "path": "p/api/panel/v1",
+    "name": "github.com/labstack/echo.(*Group).Use.func1"
+  },
+  {
+    "method": "POST",
+    "path": "p/api/panel/v1",
+    "name": "github.com/labstack/echo.(*Group).Use.func1"
+  }
+]

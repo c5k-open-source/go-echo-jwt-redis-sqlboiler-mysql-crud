@@ -17,7 +17,7 @@ type config struct {
 	MysqlWriterHost   string `envconfig:"MYSQL_WRITER_HOST"`
 	MysqlWriterUser   string `envconfig:"MYSQL_WRITER_USERNAME"`
 	MysqlWriterPass   string `envconfig:"MYSQL_WRITER_PASSWORD"`
-	PasswordHashSalt  string `envconfig:"PASSWORD_HASH_SALT`
+	PasswordHashSalt  string `envconfig:"PASSWORD_HASH_SALT"`
 	DebugBoiler       bool   `envconfig:"DEBUG_BOILER"`
 	SlackEnabled      bool   `envconfig:"SLACK_ENABLED"`
 	SlackMainWebHook  string `envconfig:"SLACK_MAIN_WEB_HOOK"`
